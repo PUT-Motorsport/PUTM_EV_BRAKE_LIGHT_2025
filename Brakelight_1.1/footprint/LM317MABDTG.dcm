@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM317MABDTG
+D Linear Voltage Regulators 500mA ADJ 1.2-37V Positive
+K
+F https://www.onsemi.com/pub/Collateral/LM317M-D.PDF
+$ENDCMP
+#
+#End Doc Library
