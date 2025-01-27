@@ -70,7 +70,6 @@
 			(dielectric_constraints no)
 		)
 		(pad_to_mask_clearance 0.051)
-		(solder_mask_min_width 0.25)
 		(allow_soldermask_bridges_in_footprints no)
 		(pcbplotparams
 			(layerselection 0x00010fc_ffffffff)
@@ -6563,7 +6562,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R1"
-			(at 0 1.82 90)
+			(at -3.25 0.05 90)
 			(layer "B.SilkS")
 			(uuid "52073b45-31aa-4215-8732-35b501a91e12")
 			(effects
@@ -7714,7 +7713,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R2"
-			(at 0 1.82 180)
+			(at 0.4125 1.6 180)
 			(layer "B.SilkS")
 			(uuid "e468c1e3-ea8e-4f18-8719-b4539e5fb8b7")
 			(effects
