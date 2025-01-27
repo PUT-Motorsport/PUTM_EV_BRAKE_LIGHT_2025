@@ -1,0 +1,23 @@
+# Wykluczenie plików tekstowych
+*.txt
+
+# Wykluczenie plików projektowych
+*.pro
+
+# Wykluczenie plików STEP (3D modeli)
+*.step
+
+# Wykluczenie typowych plików tymczasowych i systemowych
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+*.tmp
+
+# Wykluczenie plików automatycznie generowanych przez KiCad
+fp-info-cache
+sym-lib-table.bak
+fp-lib-table.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
