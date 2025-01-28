@@ -1800,6 +1800,16 @@
 		)
 		(uuid "fea7c5d1-76d6-41a0-b5e3-29889dbb8ce0")
 	)
+	(text "wire-lead"
+		(exclude_from_sim no)
+		(at 52.07 65.532 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "36f11d49-db9e-4b14-98a4-cab34be135e2")
+	)
 	(text "Iout=1.25/R"
 		(exclude_from_sim no)
 		(at 135.89 41.91 0)
@@ -1813,7 +1823,6 @@
 	)
 	(label "ADJ"
 		(at 127 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
